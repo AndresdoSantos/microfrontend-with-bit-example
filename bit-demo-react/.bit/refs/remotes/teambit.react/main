@@ -1,0 +1,177 @@
+[
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "react"
+    },
+    "head": "f99d6e7f1bf3159e41068d14e41ae744a18b9afc"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "rendering/ssr"
+    },
+    "head": "b8a28ed960d667c2ba1ac342f8268af14d33b221"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "ui/docs-app"
+    },
+    "head": "dc9153a7019a7a1f7fb9789c0fdf3af7915f717d"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "react-elements"
+    },
+    "head": "c6f16724477ec9ed70c580833079db0cc7b5bcfd"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "babel/bit-react-transformer"
+    },
+    "head": "6949872ceb4a78850039e2ced375230e32f93c4a"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "react-native"
+    },
+    "head": "e20e0cba05dc8ab7ca0a73ceeb67934cdc602839"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "instructions/react-native/adding-tests"
+    },
+    "head": "4518a2a6a020089f5eec4b09a69799c36f729793"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "instructions/react/adding-compositions"
+    },
+    "head": "52931e734998c9c9c1394977b4954b9701de0396"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "aspect-docs/react-native"
+    },
+    "head": "0e5b4f269a81b66a5aca9aff003989dde8908815"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "ui/compositions-app"
+    },
+    "head": "50ba4203ab45b4d3f6e8862335a161f72b20c1ec"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "ui/highlighter/component-metadata/bit-component-meta"
+    },
+    "head": "734bbf1628bec4fabe8087f16e5dae1fe807c895"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "ui/highlighter-provider"
+    },
+    "head": "b4deb451093182466e141b887a5f9777842e9e1a"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "instructions/react/adding-tests"
+    },
+    "head": "3d97f298b07ee18f34bd1594818049ff325abf87"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "eslint-config-bit-react"
+    },
+    "head": "c1f010c91482fc9a2347b87bc9d471e3f2a5616f"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "modules/prerenderer-puppeteer"
+    },
+    "head": "41116b27e3949018b9e1413e8b1482b36b9216af"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "content/react-overview"
+    },
+    "head": "b1913e7de2f56c519618d4cfbdb506f066c28521"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "ui/component-highlighter"
+    },
+    "head": "790e5f26fe14d76aed4a640fcc2bde64345f3c7b"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "modules/dom-to-react"
+    },
+    "head": "959d4e580211041b5b22f041d0d8016bc38f76d8"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "ui/hover-selector"
+    },
+    "head": "a16c999d8467bef1645d33ac21694ce646b6b1c2"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "ui/docs/compositions-carousel"
+    },
+    "head": "ebdc62c16baec2fdc78cffeb501621fa59db0ea1"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "ui/docs/apply-providers"
+    },
+    "head": "a9b5f17575e973a2d885ab40760e262f7e8eacbf"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "ui/docs/docs-content"
+    },
+    "head": "07edb9dade259974366d7ae940b5f29176e1599d"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "ui/docs/properties-table"
+    },
+    "head": "b7b6e16ae0fbe59bc5894df2f6e9496c80268f6c"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "ui/error-fallback"
+    },
+    "head": "a0d8328be824206630b6d304bfa3bacc4d421679"
+  },
+  {
+    "id": {
+      "scope": "teambit.react",
+      "name": "ui/loader-fallback"
+    },
+    "head": "4f9461f1661459ba066119d9f553a0bd631aba08"
+  }
+]
